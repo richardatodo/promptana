@@ -44,6 +44,6 @@ To get started with Promptana, follow these simple steps:
 
 If you have any questions, encounter issues, or want to reach out to us for any reason, please [open an issue](https://github.com/richardatodo/Promptana/issues) on our GitHub repository.
 
-A big shoutout to [@adrianhajdin](https://github.com/adrianhajdin) from JS Mastery for helping me complete this project.
+A big shoutout to [adrianhajdin](https://github.com/adrianhajdin) from JS Mastery for helping me complete this project.
 
 I hope you find Promptana a valuable tool for your creative endeavors.

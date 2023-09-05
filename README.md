@@ -1,34 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Promptana: Discover, Create, and Share Creative Prompts
+
+![Promptana Logo](https://promptana-z8l8.vercel.app/assets/images/logo.svg)
+
+Welcome to Promptana, your go-to open-source AI prompting tool for the modern world. With Promptana, you can unleash your creativity, discover inspiring prompts, create your own, and share them with the world. Whether you're a writer, artist, or simply looking for some inspiration, Promptana has you covered.
+
+## Features
+
+### Google OAuth Sign-In
+- Seamlessly log in to Promptana using your Google account.
+- Protect your data and ensure a secure sign-in process.
+
+### Prompts Feed
+- Explore a dynamic feed that displays a wide range of creative prompts from our diverse community.
+- Get inspired by the creativity of others and find the perfect prompt to kickstart your next project.
+
+### Prompt Search
+- Easily search for prompts using various criteria:
+  - Prompt text
+  - Username of the creator
+  - Tag names associated with prompts
+- Quickly find prompts tailored to your interests and preferences.
+
+### User Profile Pages
+- A personalized user profile page.
+- Showcase your creativity, share your own prompts, and connect with other users.
+
+### CRUD (Create, Read, Update, Delete) Functions
+- Create your own creative prompts and share them with the community.
+- Edit and update your prompts as your ideas evolve.
+- Delete prompts you no longer want to share.
 
 ## Getting Started
 
-First, run the development server:
+To get started with Promptana, follow these simple steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+1. Sign in with your Google account.
+2. Explore the feed to discover exciting prompts.
+3. Use the search feature to find prompts that match your interests.
+4. Create your own prompts and contribute to the creative community.
+5. Let others know about your creative journey.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Support
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+If you have any questions, encounter issues, or want to reach out to us for any reason, please [open an issue](https://github.com/richardatodo/Promptana/issues) on our GitHub repository.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+A big shoutout to @adrianhajdin from JS Mastery for helping me complete this project.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+I hope you find Promptana a valuable tool for your creative endeavors.
